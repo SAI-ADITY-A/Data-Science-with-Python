@@ -1,7 +1,5 @@
-****Machine Learning Journey****
+# Data Science in Python
 
 
-Welcome to my Machine Learning Journey repository! This repo contains the files, scripts, and documentation that chronicle my learning process and the projects I have completed in the field of Machine Learning.
-
-
+A repository for storing and documenting my journey in Python programming, Machine Learning (ML), and Deep Learning (DL). This includes code samples, notebooks, projects, and resources covering key concepts, algorithms, and techniques in data science and AI. Structured and continually updated.
 
